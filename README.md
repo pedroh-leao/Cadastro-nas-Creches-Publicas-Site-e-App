@@ -13,3 +13,7 @@ Já os responsáveis conseguem cadastrar os dados de suas crianças no site, ver
 
 
 O app é feito exclusivamente para os responsáveis das crianças. Através do login do usuário, o mesmo tem acesso à fila de espera das creches que atendem seu bairro e as notificações referentes às suas crianças, como, por exemplo, o momento em que a matrícula é confirmada, ou então que uma vaga da creche foi reservada para ela.
+
+Projeto feito por:
+(eu) Pedro Henrique R. L. de Oliveira
+João Pedro F. T. Aniceto
