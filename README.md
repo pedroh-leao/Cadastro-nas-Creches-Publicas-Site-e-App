@@ -16,4 +16,4 @@ O app é feito exclusivamente para os responsáveis das crianças. Através do l
 
 Projeto feito por:
 
-João Pedro F. T. Aniceto e Pedro Henrique R. L. de Oliveira (eu)
+João Pedro F. T. Aniceto | Pedro Henrique R. L. de Oliveira (eu)
