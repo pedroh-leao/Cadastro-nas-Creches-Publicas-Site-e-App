@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login"
+    android:background="@mipmap/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@mipmap/background"
+        >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="130dp"
+            android:layout_marginTop="154dp"
+            android:hint="Login"
+            android:textColor="#2196F3"
+            android:textColorHint="#464747"
+            android:textSize="60dp">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/cpfLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="60dp"
+            android:backgroundTint="#7D7E68"
+            android:hint="CPF"
+            android:textColor="#CACFCF"
+            android:textColorHint="#CACFCF"
+            android:textSize="30dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/senhaLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="60dp"
+            android:backgroundTint="#7D7E68"
+            android:hint="Senha"
+            android:textColor="#CACFCF"
+            android:textColorHint="#CACFCF"
+            android:textSize="30dp"
+            android:inputType="textPassword">
+
+        </EditText>
+
+
+        <Button
+            android:id="@+id/loginBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="60dp"
+            android:backgroundTint="#3D86A3"
+            android:shadowColor="#4F4F4F"
+            android:text="login"
+            android:textSize="20dp"
+            app:strokeColor="#DC0C0C" />
+
+        <Button
+            android:id="@+id/cadastroBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="60dp"
+            android:backgroundTint="#3D86A3"
+            android:shadowColor="#4F4F4F"
+            android:text="Cadastrar"
+            android:textSize="20dp"
+            app:strokeColor="#DC0C0C" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
