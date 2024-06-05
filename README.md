@@ -1,5 +1,5 @@
 # TCC-final
-Projeto final do Tcc com Website e App.
+Projeto final de Tcc do curso do IFMG com Website e App.
 
 Projeto feito para automatizar e dar praticidade ao processo de cadastro de crianças nas creches públicas da cidade, contando com um website e um aplicativo para cumprir esse objetivo.
 
@@ -16,4 +16,4 @@ O app é feito exclusivamente para os responsáveis das crianças. Através do l
 
 Projeto feito por:
 
-João Pedro F. T. Aniceto | Pedro Henrique R. L. de Oliveira (eu)
+João Pedro F. T. Aniceto | Pedro Henrique R. L. de Oliveira
